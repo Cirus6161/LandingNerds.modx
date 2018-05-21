@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tagelementplugin',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e5a2c853d691102604ea76dc8f0d6bfc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '18ee979789e535da724871a51294bbe7',
+  'native_key' => 'tagelementplugin_element_editor_keys',
+  'object' => '{"key":"tagelementplugin_element_editor_keys","value":"{key: Ext.EventObject.ENTER, ctrl: true, shift: true, alt: false}","xtype":"textfield","namespace":"tagelementplugin","area":"tagelementplugin_main","editedon":null}',
+);

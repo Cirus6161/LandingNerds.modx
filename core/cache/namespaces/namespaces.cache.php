@@ -35,6 +35,12 @@
     'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/sdstore/',
     'assets_path' => '',
   ),
+  'tagelementplugin' => 
+  array (
+    'name' => 'tagelementplugin',
+    'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/tagelementplugin/',
+    'assets_path' => '',
+  ),
   'translit' => 
   array (
     'name' => 'translit',
