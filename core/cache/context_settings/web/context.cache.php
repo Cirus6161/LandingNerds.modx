@@ -2,6 +2,10 @@
   'config' => 
   array (
   ),
+  'aliasMap' => 
+  array (
+    'glavnaya.html' => 1,
+  ),
   'resourceMap' => 
   array (
     0 => 
