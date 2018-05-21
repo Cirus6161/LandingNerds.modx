@@ -11,6 +11,12 @@
     'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/batcher/',
     'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/assets/components/batcher/',
   ),
+  'clientconfig' => 
+  array (
+    'name' => 'clientconfig',
+    'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/clientconfig/',
+    'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/assets/components/clientconfig/',
+  ),
   'collections' => 
   array (
     'name' => 'collections',
