@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-22 15:00:11
+/* Smarty version 3.1.31, created on 2018-05-22 15:49:31
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\header.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b04064b52aa93_45531589',
+  'unifunc' => 'content_5b0411db6f7e66_30696215',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b04064b52aa93_45531589 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b0411db6f7e66_30696215 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="<?php echo $_smarty_tpl->tpl_vars['_config']->value['manager_direction'];?>

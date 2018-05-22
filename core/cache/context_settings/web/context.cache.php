@@ -5,14 +5,14 @@
   'aliasMap' => 
   array (
     'glavnaya.html' => 1,
-    'pervaya-sekcziya(slajder).html' => 2,
+    'pervaya-sekcziya(slajder).html' => 3,
   ),
   'resourceMap' => 
   array (
     0 => 
     array (
       0 => 1,
-      1 => 2,
+      1 => 3,
     ),
   ),
   'webLinkMap' => 
