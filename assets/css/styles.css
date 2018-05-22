@@ -196,7 +196,7 @@ th {
 
 html {
   font-size: 10px;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1638,7 +1638,7 @@ header {
   position: absolute;
   overflow: hidden;
   width: 165px;
-  height: 217px;
+  height: 219px;
   right: 35px;
   top: 33px; }
   .obj-slide-tablet-img {
@@ -1652,11 +1652,11 @@ header {
   right: 59%; }
 
 .obj-slide-phone {
-  width: 87px;
+  width: 89px;
   height: 158px;
   position: absolute;
   top: 30px;
-  right: 17px; }
+  right: 16px; }
   .obj-slide-phone-img {
     height: 156px;
     width: 150px; }

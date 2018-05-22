@@ -1,8 +1,8 @@
 <?php
 return array (
-  'timestamp' => '2018-05-22 14:06:51',
+  'timestamp' => '2018-05-22 15:01:46',
   'level' => 'INFO',
-  'msg' => 'Обновлено успешно!',
+  'msg' => '-> mgr: Обновлено успешно!',
   'def' => '',
   'file' => '/connectors/index.php',
   'line' => '',

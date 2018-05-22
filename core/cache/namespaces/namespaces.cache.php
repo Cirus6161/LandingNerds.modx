@@ -29,6 +29,12 @@
     'path' => 'C:/OSPanel/domains/LandingNerds.modx/smanager/',
     'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/smanager/assets/',
   ),
+  'migx' => 
+  array (
+    'name' => 'migx',
+    'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/migx/',
+    'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/assets/components/migx/',
+  ),
   'pdotools' => 
   array (
     'name' => 'pdotools',
