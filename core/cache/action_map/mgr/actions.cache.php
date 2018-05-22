@@ -25,4 +25,17 @@
     'namespace_path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/collections/',
     'namespace_assets_path' => '{assets_path}components/collections/',
   ),
+  3 => 
+  array (
+    'id' => '3',
+    'namespace' => 'migx',
+    'controller' => 'index',
+    'haslayout' => '0',
+    'lang_topics' => 'example:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'migx',
+    'namespace_path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/migx/',
+    'namespace_assets_path' => '{assets_path}components/migx/',
+  ),
 );
