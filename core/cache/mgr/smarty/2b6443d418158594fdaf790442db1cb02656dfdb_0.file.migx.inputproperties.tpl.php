@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-22 16:41:51
+/* Smarty version 3.1.31, created on 2018-05-23 15:27:30
   from "C:\OSPanel\domains\LandingNerds.modx\core\components\migx\elements\tv\migx.inputproperties.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b041e1f1dd472_89791790',
+  'unifunc' => 'content_5b055e32194df8_38306550',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2b6443d418158594fdaf790442db1cb02656dfdb' => 
     array (
       0 => 'C:\\OSPanel\\domains\\LandingNerds.modx\\core\\components\\migx\\elements\\tv\\migx.inputproperties.tpl',
-      1 => 1526993319,
+      1 => 1527011965,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b041e1f1dd472_89791790 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b055e32194df8_38306550 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="tv-input-properties-form<?php echo $_smarty_tpl->tpl_vars['tv']->value;?>
 "></div>

@@ -6,6 +6,7 @@
   array (
     'glavnaya.html' => 1,
     'pervaya-sekcziya(slajder).html' => 3,
+    'o-sebe-(video).html' => 4,
   ),
   'resourceMap' => 
   array (
@@ -13,6 +14,7 @@
     array (
       0 => 1,
       1 => 3,
+      2 => 4,
     ),
   ),
   'webLinkMap' => 
