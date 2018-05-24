@@ -10,6 +10,7 @@
     'moї-perevagi.html' => 5,
     'portfolіo.html' => 6,
     'politika-czen.html' => 7,
+    'raznicza-tarifov.html' => 8,
   ),
   'resourceMap' => 
   array (
@@ -21,6 +22,7 @@
       3 => 5,
       4 => 6,
       5 => 7,
+      6 => 8,
     ),
   ),
   'webLinkMap' => 
