@@ -1,3 +1,27 @@
 [2018-05-23 19:55:12] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
 [2018-05-23 19:55:47] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default
 [2018-05-23 19:55:47] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-24 11:55:42] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\cache\xpdocachemanager.class.php : 514) PHP warning: unlink(C:/OSPanel/domains/LandingNerds.modx/core/cache/lexicon_topics/lexicon/ru/core/user.cache.php): Permission denied
+[2018-05-24 11:55:42] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\cache\xpdocachemanager.class.php : 522) PHP warning: closedir(): 190 is not a valid Directory resource
+[2018-05-24 11:57:38] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2018-05-24 12:21:04] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/3
+[2018-05-24 12:21:05] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-24 12:22:00] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-05-24 12:22:49] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__src11ba443cdba14540a19aaa0c9338ded4_par0ba78bb0326502335f8683fdf331013a_dat1526460211.jpeg
+[2018-05-24 12:22:49] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-05-24 12:23:38] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__src11ba443cdba14540a19aaa0c9338ded4_par0ba78bb0326502335f8683fdf331013a_dat1526460211.jpeg
+[2018-05-24 12:23:38] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-05-24 12:37:41] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__src16bbcc9897d5b780206d52855402c5c9_par0ba78bb0326502335f8683fdf331013a_dat1526460212.jpeg
+[2018-05-24 12:37:41] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-05-24 12:38:10] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__srcf9467a80fec608a3567f282fc1488bd1_par0ba78bb0326502335f8683fdf331013a_dat1526460212.jpeg
+[2018-05-24 12:38:10] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-05-24 12:38:35] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__srce7997f5a57c8b6e34aeaa4e452fb47a3_par0ba78bb0326502335f8683fdf331013a_dat1522610424.jpeg
+[2018-05-24 12:38:35] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-05-24 12:39:01] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OSPanel\domains\LandingNerds.modx\core\cache\phpthumb\landingnerds.modx__src94622572fb77b9abef96e7bc691b6fdf_par0ba78bb0326502335f8683fdf331013a_dat1522610460.jpeg
+[2018-05-24 12:39:01] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
