@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 11:48:52
+/* Smarty version 3.1.31, created on 2018-05-24 17:04:46
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\element\tv\create.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b067c74085fc0_54329459',
+  'unifunc' => 'content_5b06c67e329cb1_29266873',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b067c74085fc0_54329459 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b06c67e329cb1_29266873 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="modx-panel-tv-div"></div>
 <?php echo $_smarty_tpl->tpl_vars['onTVFormPrerender']->value;

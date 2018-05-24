@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 11:48:57
+/* Smarty version 3.1.31, created on 2018-05-24 17:04:48
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\element\tv\renders\inputproperties\text.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b067c791d1264_67919919',
+  'unifunc' => 'content_5b06c680e4a049_12525562',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b067c791d1264_67919919 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b06c680e4a049_12525562 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="tv-input-properties-form<?php echo (($tmp = @$_smarty_tpl->tpl_vars['tv']->value)===null||$tmp==='' ? '' : $tmp);?>
 "></div>

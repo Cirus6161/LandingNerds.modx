@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 11:37:23
+/* Smarty version 3.1.31, created on 2018-05-24 17:04:22
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\welcome.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b0679c3e2a0f5_62544016',
+  'unifunc' => 'content_5b06c666deb1c4_97496864',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b0679c3e2a0f5_62544016 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b06c666deb1c4_97496864 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="modx-panel-welcome-div"></div>
 

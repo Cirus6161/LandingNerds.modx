@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 11:48:55
+/* Smarty version 3.1.31, created on 2018-05-24 17:04:48
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\empty.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b067c779c2732_20532175',
+  'unifunc' => 'content_5b06c68065d8e5_37317559',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b067c779c2732_20532175 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b06c68065d8e5_37317559 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
  <?php }
 }

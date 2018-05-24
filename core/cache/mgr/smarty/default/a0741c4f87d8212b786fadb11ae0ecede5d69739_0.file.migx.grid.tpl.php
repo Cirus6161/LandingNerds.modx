@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-23 20:12:44
+/* Smarty version 3.1.31, created on 2018-05-24 17:04:28
   from "C:\OSPanel\domains\LandingNerds.modx\core\components\migx\templates\mgr\grids\migx.grid.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b05a10caf28a3_76549717',
+  'unifunc' => 'content_5b06c66cdf9677_81416808',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a0741c4f87d8212b786fadb11ae0ecede5d69739' => 
     array (
       0 => 'C:\\OSPanel\\domains\\LandingNerds.modx\\core\\components\\migx\\templates\\mgr\\grids\\migx.grid.tpl',
-      1 => 1527011965,
+      1 => 1526993318,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b05a10caf28a3_76549717 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b06c66cdf9677_81416808 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 MODx.grid.multiTVgrid<?php echo $_smarty_tpl->tpl_vars['tv']->value->id;?>

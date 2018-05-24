@@ -11,6 +11,7 @@
     'portfolіo.html' => 6,
     'politika-czen.html' => 7,
     'raznicza-tarifov.html' => 8,
+    'dlya-startapov.html' => 9,
   ),
   'resourceMap' => 
   array (
@@ -23,6 +24,7 @@
       4 => 6,
       5 => 7,
       6 => 8,
+      7 => 9,
     ),
   ),
   'webLinkMap' => 
