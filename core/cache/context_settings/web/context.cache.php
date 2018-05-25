@@ -9,9 +9,10 @@
     'o-sebe-(video).html' => 4,
     'moї-perevagi.html' => 5,
     'portfolіo.html' => 6,
-    'politika-czen.html' => 7,
+    'politika-czen/' => 7,
     'raznicza-tarifov.html' => 8,
     'dlya-startapov.html' => 9,
+    'test.html' => 12,
     'slajder-sekcziya.html' => 10,
   ),
   'resourceMap' => 
@@ -26,7 +27,8 @@
       5 => 7,
       6 => 8,
       7 => 9,
-      8 => 10,
+      8 => 12,
+      9 => 10,
     ),
   ),
   'webLinkMap' => 

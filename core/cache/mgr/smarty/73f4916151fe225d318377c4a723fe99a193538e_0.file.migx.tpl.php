@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 18:17:26
+/* Smarty version 3.1.31, created on 2018-05-25 15:46:30
   from "C:\OSPanel\domains\LandingNerds.modx\core\components\migx\elements\tv\migx.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b06d78650c6c5_75807862',
+  'unifunc' => 'content_5b0805a63de163_00586423',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '6876b718a4cebf244d56870e2885d5bc1e47607b' => 
+    '73f4916151fe225d318377c4a723fe99a193538e' => 
     array (
       0 => 'C:\\OSPanel\\domains\\LandingNerds.modx\\core\\components\\migx\\elements\\tv\\migx.tpl',
       1 => 1526993319,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b06d78650c6c5_75807862 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b0805a63de163_00586423 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <input id="tv<?php echo $_smarty_tpl->tpl_vars['tv']->value->id;?>
 " name="tv<?php echo $_smarty_tpl->tpl_vars['tv']->value->id;?>

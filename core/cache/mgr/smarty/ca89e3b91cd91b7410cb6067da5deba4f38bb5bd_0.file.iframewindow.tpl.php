@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 18:17:25
+/* Smarty version 3.1.31, created on 2018-05-25 15:46:29
   from "C:\OSPanel\domains\LandingNerds.modx\core\components\migx\templates\mgr\iframewindow.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b06d785b70af3_07409676',
+  'unifunc' => 'content_5b0805a5ae4f65_40780219',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '33d456f30ecb61253cfd3bb5a1aee45bca38665f' => 
+    'ca89e3b91cd91b7410cb6067da5deba4f38bb5bd' => 
     array (
       0 => 'C:\\OSPanel\\domains\\LandingNerds.modx\\core\\components\\migx\\templates\\mgr\\iframewindow.tpl',
       1 => 1526993318,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b06d785b70af3_07409676 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b0805a5ae4f65_40780219 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 

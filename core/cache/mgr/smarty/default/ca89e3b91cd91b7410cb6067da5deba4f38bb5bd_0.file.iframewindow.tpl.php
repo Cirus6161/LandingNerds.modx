@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 17:04:28
+/* Smarty version 3.1.31, created on 2018-05-25 15:46:20
   from "C:\OSPanel\domains\LandingNerds.modx\core\components\migx\templates\mgr\iframewindow.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b06c66cadae38_09374714',
+  'unifunc' => 'content_5b08059c835b24_83599622',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b06c66cadae38_09374714 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b08059c835b24_83599622 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 

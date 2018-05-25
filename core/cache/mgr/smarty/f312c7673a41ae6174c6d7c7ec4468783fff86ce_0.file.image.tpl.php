@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-05-24 18:02:37
+/* Smarty version 3.1.31, created on 2018-05-25 15:46:29
   from "C:\OSPanel\domains\LandingNerds.modx\smanager\templates\default\element\tv\renders\input\image.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b06d40d5dd2c7_07116742',
+  'unifunc' => 'content_5b0805a57a1f07_43729031',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b06d40d5dd2c7_07116742 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b0805a57a1f07_43729031 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_modifier_replace')) require_once 'C:\\OSPanel\\domains\\LandingNerds.modx\\core\\model\\smarty\\plugins\\modifier.replace.php';
 ?>
 <div id="tv-image-<?php echo $_smarty_tpl->tpl_vars['tv']->value->id;?>
