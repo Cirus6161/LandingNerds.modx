@@ -14,6 +14,7 @@
     'dlya-startapov.html' => 9,
     'test.html' => 12,
     'slajder-sekcziya.html' => 10,
+    'politika-czen/testing.html' => 13,
   ),
   'resourceMap' => 
   array (
@@ -29,6 +30,10 @@
       7 => 9,
       8 => 12,
       9 => 10,
+    ),
+    7 => 
+    array (
+      0 => 13,
     ),
   ),
   'webLinkMap' => 
