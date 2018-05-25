@@ -12,6 +12,7 @@
     'politika-czen.html' => 7,
     'raznicza-tarifov.html' => 8,
     'dlya-startapov.html' => 9,
+    'slajder-sekcziya.html' => 10,
   ),
   'resourceMap' => 
   array (
@@ -25,6 +26,7 @@
       5 => 7,
       6 => 8,
       7 => 9,
+      8 => 10,
     ),
   ),
   'webLinkMap' => 
