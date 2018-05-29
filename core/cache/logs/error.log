@@ -96,3 +96,4 @@
 [2018-05-29 15:20:31] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
 [2018-05-29 15:20:36] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
 [2018-05-29 15:20:36] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 16:35:54] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
