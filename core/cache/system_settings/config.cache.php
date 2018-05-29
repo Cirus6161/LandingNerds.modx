@@ -105,6 +105,14 @@
 <p>After you log into the MODX Manager, you can change your password again, if you wish.</p>
 
 <p>Regards,<br />Site Administrator</p>',
+  'formit.attachment.mediasource' => '1',
+  'formit.attachment.path' => '',
+  'formit.exclude_contexts' => 'mgr',
+  'formit.export_csv_delimiter' => ';',
+  'formit.form_encryptkey' => '',
+  'formit.recaptcha_private_key' => '',
+  'formit.recaptcha_public_key' => '',
+  'formit.recaptcha_use_ssl' => '0',
   'form_customization_use_all_groups' => '',
   'forward_merge_excludes' => 'type,published,class_key',
   'friendly_alias_lowercase_only' => '1',
