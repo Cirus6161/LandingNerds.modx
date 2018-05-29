@@ -56,3 +56,19 @@
 [2018-05-29 14:36:14] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
 [2018-05-29 14:36:28] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
 [2018-05-29 14:36:28] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:39:07] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:39:07] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:39:16] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:39:16] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:39:49] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:39:49] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:39:56] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:39:56] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:45:43] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:45:43] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:45:47] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:45:47] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:53:33] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:53:33] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
+[2018-05-29 14:53:59] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 644) Could not load class: FormIt from formit.
+[2018-05-29 14:53:59] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/

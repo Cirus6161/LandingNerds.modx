@@ -5,6 +5,12 @@
     'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/ace/',
     'assets_path' => '',
   ),
+  'ajaxform' => 
+  array (
+    'name' => 'ajaxform',
+    'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/ajaxform/',
+    'assets_path' => '',
+  ),
   'batcher' => 
   array (
     'name' => 'batcher',
@@ -28,6 +34,12 @@
     'name' => 'core',
     'path' => 'C:/OSPanel/domains/LandingNerds.modx/smanager/',
     'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/smanager/assets/',
+  ),
+  'formit' => 
+  array (
+    'name' => 'formit',
+    'path' => 'C:/OSPanel/domains/LandingNerds.modx/core/components/formit/',
+    'assets_path' => 'C:/OSPanel/domains/LandingNerds.modx/assets/components/formit/',
   ),
   'migx' => 
   array (
