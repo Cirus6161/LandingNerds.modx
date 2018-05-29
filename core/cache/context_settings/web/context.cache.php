@@ -12,9 +12,14 @@
     'politika-czen/' => 7,
     'raznicza-tarifov.html' => 8,
     'dlya-startapov.html' => 9,
-    'test.html' => 12,
+    'modalnyie-okna-xostinga/' => 17,
     'slajder-sekcziya.html' => 10,
-    'politika-czen/testing.html' => 13,
+    'politika-czen/paket-predlozhenij-1.html' => 14,
+    'politika-czen/paket-predlozhenij-2.html' => 15,
+    'politika-czen/paket-predlozhenij-3.html' => 16,
+    'modalnyie-okna-xostinga/modalnyie-okna-xostinga.html' => 18,
+    'modalnyie-okna-xostinga/modalnyie-okno-xostinga-2.html' => 19,
+    'modalnyie-okna-xostinga/modalnyie-okno-xostinga-3.html' => 20,
   ),
   'resourceMap' => 
   array (
@@ -28,12 +33,20 @@
       5 => 7,
       6 => 8,
       7 => 9,
-      8 => 12,
+      8 => 17,
       9 => 10,
     ),
     7 => 
     array (
-      0 => 13,
+      0 => 14,
+      1 => 15,
+      2 => 16,
+    ),
+    17 => 
+    array (
+      0 => 18,
+      1 => 19,
+      2 => 20,
     ),
   ),
   'webLinkMap' => 
