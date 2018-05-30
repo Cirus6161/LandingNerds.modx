@@ -263,11 +263,10 @@
 				<div class="serv-title-after">Якщо вам не підходить жоден з тарифів, то я можу скласти для вас індивідуальний - додати послуги з інших тарифів або прибрати ті, які вам не знадобляться.</div>
 				<div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 2</h3>
+						<h3>Тестовый заголовок 20</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -277,15 +276,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 125.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 2</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 20</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 3</h3>
+						<h3>Тестовый заголовок 30</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -295,15 +293,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 23.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 3</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 30</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок</h3>
+						<h3>Тестовый заголовок 1</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>раз</li><li>два</li><li>три</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -313,7 +310,7 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 24.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 1</a>
 				</div>
           
          
@@ -364,17 +361,18 @@
 <section id="theme" class="brif">
 		<div class="container">	
 		<h2 class="title">Схема роботи</h2>
-			<div class="brif-box">
+			 <div class="brif-box">
+				
 				<div class="brif-items">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-6">
-								<img src="assets/img/step.jpg" alt="step">
+								<img src="assets/img/Group 3.png" alt="step">
 							</div>
 							<div class="col-md-6">
-								<div class="brif-step">1 етап из 7</div>
-								<h3>Заповнення брифу</h3>
-								<div class="brif-cont brif-cont_mod">Я починаю роботу за проектом, коли матіму заповнений бриф. Чим докладніше ви его Заповнена, тім швідше й точніше я зрозумію Ваші вимоги. Тім повнішім буде моє уявлення сайту.</div>
+								<div class="brif-step">1 из 999</div>
+								<h3>Заголовок </h3>
+								<div class="brif-cont brif-cont_mod">Текст Текст  Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст </div>
 								<div class="brif-cont_blue">Дивитися моє відео «Як правильно заповнювати бриф»</div>
 								<a class="btn" href="" download="">Завантажити бриф-анкету</a>
 							</div>
@@ -497,7 +495,7 @@
 			[[!AjaxForm?
             &snippet=`FormIt`
             &form=`modal--form`
-            &emailTpl=`modal--email_tpl`
+            &emailTpl=`email_tpl`
             &hooks=`email`
             &emailSubject=`Обратная связь`
             &emailTo=`oleg.crystalclear@gmail.com`
@@ -576,22 +574,15 @@
 					<div class="modal3-context">Працюємо з рекламними бюджетами від 7000 грн / міс (Adwords).</div>
 					<h3>Загальний бюджет на рекл. кампанію складається з:</h3>
 					<ul>
-						<li>бюджету на кліки (прораховується в кожному конкретному випадку);</li>
-						<li>послуг з налаштування та ведення рекл. кампанії (послуги агентства).</li>
-						<li>Вартість послуг і бюджет на рекламу прораховується в кожному конкретному випадку і залежить від цілей / особливостей рекл. кампанії і від обсягу робіт з управління рекл. кампанією</li>
+						<li>1</li><li>2</li>
+						
 					</ul>
-					<h4>Мінімальна вартість настройки рекл. кампанії - 3099 грн разово.<br>
-						Мінімальна вартість послуг ведення рекл. кампанії - 3099 грн / міс.
+					<h4>Мінімальна вартість настройки рекл. кампанії - 4000 грн разово.<br>
+						Мінімальна вартість послуг ведення рекл. кампанії - 4000 грн / міс.
 					</h4>
 					<h3>У вартість обслуговування рекл. кампанії входить:</h3>
 					<ul>
-						<li>побудова рекламної стратегії</li>
-						<li>настройка аналітики: відстеження конверсій, звіти (Google Analytics, Tag-Manager, Metrika, WebVisor, Google DataStudio)</li>
-						<li>настройка рекламних акаунтів (Adwords, Direct, FaceBook Ads)</li>
-						<li>налаштування імпорту даних (Owox)</li>
-						<li>аналітика і роботи по оптимізаці</li>
-						<li>звітність і рекомендації</li>
-						<li>рішення тих. проблем з акаунтами</li>
+					  <li>1</li><li>2</li><li>3</li>
 					</ul>
 				</div>
 				<a class="btn btn-adwords js-pop" href="#modal1">Замовити налаштування</a>
@@ -603,17 +594,15 @@
 			<div class="row">
 				<h2 class="title">Реєстрація доменного імені</h2>
 				<div class="form">
-					<form class="form-box js-form-template">
-						<input id="domin" class="form-box-field form-box-field-dom js-valid" type="text" name="txt[]" placeholder="Введіть ім’я, яке бажаєте  зареєструвати">
-						<input  class="form-box-field js-valid" type="text" name="name[]" placeholder="Введіть ваше ім’я">
-						<input  class="form-box-field js-valid" type="text" name="phone[]" placeholder="Введіть ваш телефон">
-						<input class="hidden identyfy" type="text" name="identify[]" value="Домен">
-						<div class="form-check">
-							<input class="" id="ready4" type="checkbox" name="check[]" checked>
-							<label class="form-check-lable" for="ready4">Я погоджуюся <a class="form-check-lable-confidencial" target="_blank" href="conf.html">з політикою конфіденційності</a></label>
-						</div>
-						<input type="submit" class="btn btn-interview" value="Залишити заявку"></input>
-					</form>
+					[[!AjaxForm?
+            &snippet=`FormIt`
+            &form=`modal--form2`
+            &emailTpl=`modal--email_tpl`
+            &hooks=`email`
+            &emailSubject=`Обратная связь`
+            &emailTo=`oleg.crystalclear@gmail.com`
+            &emailFrom=`oleg.crystalclear@gmail.com`
+        ]]
 				</div>
 			</div>
 		</div>
@@ -968,11 +957,10 @@
            &sortdir=`ASC`
           ]]' => '<div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 2</h3>
+						<h3>Тестовый заголовок 20</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -982,15 +970,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 125.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 2</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 20</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 3</h3>
+						<h3>Тестовый заголовок 30</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -1000,15 +987,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 23.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 3</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 30</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок</h3>
+						<h3>Тестовый заголовок 1</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>раз</li><li>два</li><li>три</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -1018,7 +1004,7 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 24.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 1</a>
 				</div>',
     '[[$price--policy__section]]' => '<section id="cost" class="serv">
 		<div class="container">
@@ -1027,11 +1013,10 @@
 				<div class="serv-title-after">Якщо вам не підходить жоден з тарифів, то я можу скласти для вас індивідуальний - додати послуги з інших тарифів або прибрати ті, які вам не знадобляться.</div>
 				<div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 2</h3>
+						<h3>Тестовый заголовок 20</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -1041,15 +1026,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 125.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 2</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 20</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок 3</h3>
+						<h3>Тестовый заголовок 30</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -1059,15 +1043,14 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 23.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок 3</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 30</a>
 				</div>
 <div class="col-md-4">
 					<div class="serv-items">
-						<h3>Тестовый заголовок</h3>
+						<h3>Тестовый заголовок 1</h3>
 						<i>Що ви отримаєте:</i>
 						<ul>
 							<li>раз</li><li>два</li><li>три</li>
-							
 						</ul>
 					</div>
 					<div class="serv-panel">
@@ -1077,7 +1060,7 @@
 					<div class="serv-items-img">
 						<img src="assets/img/Group 24.png">
 					</div>
-					<a class="btn btn-w100 btn-economy js-pop" href="#modal1">Замовити тариф Тестовый заголовок</a>
+					<a class="btn btn-w100 js-pop" href="#modal1">Замовити тариф Тестовый заголовок 1</a>
 				</div>
           
          
@@ -1159,6 +1142,26 @@
 	</section>',
     '[[getImageList?
 								  &docid=`10`
+								  &limit=`1`
+                  &tvname=`const--slider__item`
+                  &tpl=`const-slide`]]' => '<div class="brif-items">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<img src="assets/img/Group 3.png" alt="step">
+							</div>
+							<div class="col-md-6">
+								<div class="brif-step">1 из 999</div>
+								<h3>Заголовок </h3>
+								<div class="brif-cont brif-cont_mod">Текст Текст  Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст </div>
+								<div class="brif-cont_blue">Дивитися моє відео «Як правильно заповнювати бриф»</div>
+								<a class="btn" href="" download="">Завантажити бриф-анкету</a>
+							</div>
+						</div>
+					</div>
+				</div>',
+    '[[getImageList?
+								  &docid=`10`
                   &tvname=`great--slider__item`
                   &tpl=`great--slider__item`]]' => '<div class="brif-items">
 					<div class="container">
@@ -1190,17 +1193,18 @@
     '[[$great--slider__section]]' => '<section id="theme" class="brif">
 		<div class="container">	
 		<h2 class="title">Схема роботи</h2>
-			<div class="brif-box">
+			 <div class="brif-box">
+				
 				<div class="brif-items">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-6">
-								<img src="assets/img/step.jpg" alt="step">
+								<img src="assets/img/Group 3.png" alt="step">
 							</div>
 							<div class="col-md-6">
-								<div class="brif-step">1 етап из 7</div>
-								<h3>Заповнення брифу</h3>
-								<div class="brif-cont brif-cont_mod">Я починаю роботу за проектом, коли матіму заповнений бриф. Чим докладніше ви его Заповнена, тім швідше й точніше я зрозумію Ваші вимоги. Тім повнішім буде моє уявлення сайту.</div>
+								<div class="brif-step">1 из 999</div>
+								<h3>Заголовок </h3>
+								<div class="brif-cont brif-cont_mod">Текст Текст  Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст </div>
 								<div class="brif-cont_blue">Дивитися моє відео «Як правильно заповнювати бриф»</div>
 								<a class="btn" href="" download="">Завантажити бриф-анкету</a>
 							</div>
@@ -1385,6 +1389,38 @@
 					</div>
 					<a class="btn btn-w100 btn-host-econom js-pop" href="#modal1">Замовити тариф Ещё тариф</a>
 				</div>',
+    '[[getImageList?
+								  &docid=`22`
+                  &tvname=`google-adwords--budget__list`
+                  &tpl=`google-adwords--budget__list`]]' => '<li>1</li><li>2</li>',
+    '[[getImageList?
+								  &docid=`22`
+                  &tvname=`google-adwords--service__list`
+                  &tpl=`google-adwords--service__list`]]' => '<li>1</li><li>2</li><li>3</li>',
+    '[[pdoResources?
+           &parents=`21`
+           &depth=`0`
+           &includeTVs=`google-adwords-price, min-setup-price, min-conducting-price`
+           &tpl=`google--adwords__item`
+           &sortdir=`ASC`
+          ]]' => '<div class="modal3-box">
+					<h3>Терміни запуску</h3>
+					<div class="modal3-context">Налагодження та запуск рекл. кампанії - від 3 роб. днів (залежить від складності проекту)</div>
+					<h3>Бюджет і вартість послуг</h3>
+					<div class="modal3-context">Працюємо з рекламними бюджетами від 7000 грн / міс (Adwords).</div>
+					<h3>Загальний бюджет на рекл. кампанію складається з:</h3>
+					<ul>
+						<li>1</li><li>2</li>
+						
+					</ul>
+					<h4>Мінімальна вартість настройки рекл. кампанії - 4000 грн разово.<br>
+						Мінімальна вартість послуг ведення рекл. кампанії - 4000 грн / міс.
+					</h4>
+					<h3>У вартість обслуговування рекл. кампанії входить:</h3>
+					<ul>
+					  <li>1</li><li>2</li><li>3</li>
+					</ul>
+				</div>',
     '[[$modal]]' => '  <div id="modal1" class="modal1">
 		<h2 class="title title-white modal1-title">Поговоримо про ваш проект?</h2>
 		<div class="modal1-title-after">Залиште заявку і я дам зворотний зв’язок протягом 10 хвилин</div>
@@ -1392,7 +1428,7 @@
 			[[!AjaxForm?
             &snippet=`FormIt`
             &form=`modal--form`
-            &emailTpl=`modal--email_tpl`
+            &emailTpl=`email_tpl`
             &hooks=`email`
             &emailSubject=`Обратная связь`
             &emailTo=`oleg.crystalclear@gmail.com`
@@ -1471,22 +1507,15 @@
 					<div class="modal3-context">Працюємо з рекламними бюджетами від 7000 грн / міс (Adwords).</div>
 					<h3>Загальний бюджет на рекл. кампанію складається з:</h3>
 					<ul>
-						<li>бюджету на кліки (прораховується в кожному конкретному випадку);</li>
-						<li>послуг з налаштування та ведення рекл. кампанії (послуги агентства).</li>
-						<li>Вартість послуг і бюджет на рекламу прораховується в кожному конкретному випадку і залежить від цілей / особливостей рекл. кампанії і від обсягу робіт з управління рекл. кампанією</li>
+						<li>1</li><li>2</li>
+						
 					</ul>
-					<h4>Мінімальна вартість настройки рекл. кампанії - 3099 грн разово.<br>
-						Мінімальна вартість послуг ведення рекл. кампанії - 3099 грн / міс.
+					<h4>Мінімальна вартість настройки рекл. кампанії - 4000 грн разово.<br>
+						Мінімальна вартість послуг ведення рекл. кампанії - 4000 грн / міс.
 					</h4>
 					<h3>У вартість обслуговування рекл. кампанії входить:</h3>
 					<ul>
-						<li>побудова рекламної стратегії</li>
-						<li>настройка аналітики: відстеження конверсій, звіти (Google Analytics, Tag-Manager, Metrika, WebVisor, Google DataStudio)</li>
-						<li>настройка рекламних акаунтів (Adwords, Direct, FaceBook Ads)</li>
-						<li>налаштування імпорту даних (Owox)</li>
-						<li>аналітика і роботи по оптимізаці</li>
-						<li>звітність і рекомендації</li>
-						<li>рішення тих. проблем з акаунтами</li>
+					  <li>1</li><li>2</li><li>3</li>
 					</ul>
 				</div>
 				<a class="btn btn-adwords js-pop" href="#modal1">Замовити налаштування</a>
@@ -1498,17 +1527,15 @@
 			<div class="row">
 				<h2 class="title">Реєстрація доменного імені</h2>
 				<div class="form">
-					<form class="form-box js-form-template">
-						<input id="domin" class="form-box-field form-box-field-dom js-valid" type="text" name="txt[]" placeholder="Введіть ім’я, яке бажаєте  зареєструвати">
-						<input  class="form-box-field js-valid" type="text" name="name[]" placeholder="Введіть ваше ім’я">
-						<input  class="form-box-field js-valid" type="text" name="phone[]" placeholder="Введіть ваш телефон">
-						<input class="hidden identyfy" type="text" name="identify[]" value="Домен">
-						<div class="form-check">
-							<input class="" id="ready4" type="checkbox" name="check[]" checked>
-							<label class="form-check-lable" for="ready4">Я погоджуюся <a class="form-check-lable-confidencial" target="_blank" href="conf.html">з політикою конфіденційності</a></label>
-						</div>
-						<input type="submit" class="btn btn-interview" value="Залишити заявку"></input>
-					</form>
+					[[!AjaxForm?
+            &snippet=`FormIt`
+            &form=`modal--form2`
+            &emailTpl=`modal--email_tpl`
+            &hooks=`email`
+            &emailSubject=`Обратная связь`
+            &emailTo=`oleg.crystalclear@gmail.com`
+            &emailFrom=`oleg.crystalclear@gmail.com`
+        ]]
 				</div>
 			</div>
 		</div>
@@ -2381,23 +2408,13 @@
           'snippet' => '<section id="theme" class="brif">
 		<div class="container">	
 		<h2 class="title">Схема роботи</h2>
-			<div class="brif-box">
-				<div class="brif-items">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
-								<img src="assets/img/step.jpg" alt="step">
-							</div>
-							<div class="col-md-6">
-								<div class="brif-step">1 етап из 7</div>
-								<h3>Заповнення брифу</h3>
-								<div class="brif-cont brif-cont_mod">Я починаю роботу за проектом, коли матіму заповнений бриф. Чим докладніше ви его Заповнена, тім швідше й точніше я зрозумію Ваші вимоги. Тім повнішім буде моє уявлення сайту.</div>
-								<div class="brif-cont_blue">Дивитися моє відео «Як правильно заповнювати бриф»</div>
-								<a class="btn" href="" download="">Завантажити бриф-анкету</a>
-							</div>
-						</div>
-					</div>
-				</div>
+			 <div class="brif-box">
+				
+				[[getImageList?
+								  &docid=`10`
+								  &limit=`1`
+                  &tvname=`const--slider__item`
+                  &tpl=`const-slide`]]
 				[[getImageList?
 								  &docid=`10`
                   &tvname=`great--slider__item`
@@ -2416,23 +2433,13 @@
           'content' => '<section id="theme" class="brif">
 		<div class="container">	
 		<h2 class="title">Схема роботи</h2>
-			<div class="brif-box">
-				<div class="brif-items">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
-								<img src="assets/img/step.jpg" alt="step">
-							</div>
-							<div class="col-md-6">
-								<div class="brif-step">1 етап из 7</div>
-								<h3>Заповнення брифу</h3>
-								<div class="brif-cont brif-cont_mod">Я починаю роботу за проектом, коли матіму заповнений бриф. Чим докладніше ви его Заповнена, тім швідше й точніше я зрозумію Ваші вимоги. Тім повнішім буде моє уявлення сайту.</div>
-								<div class="brif-cont_blue">Дивитися моє відео «Як правильно заповнювати бриф»</div>
-								<a class="btn" href="" download="">Завантажити бриф-анкету</a>
-							</div>
-						</div>
-					</div>
-				</div>
+			 <div class="brif-box">
+				
+				[[getImageList?
+								  &docid=`10`
+								  &limit=`1`
+                  &tvname=`const--slider__item`
+                  &tpl=`const-slide`]]
 				[[getImageList?
 								  &docid=`10`
                   &tvname=`great--slider__item`
@@ -2699,7 +2706,7 @@
 			[[!AjaxForm?
             &snippet=`FormIt`
             &form=`modal--form`
-            &emailTpl=`modal--email_tpl`
+            &emailTpl=`email_tpl`
             &hooks=`email`
             &emailSubject=`Обратная связь`
             &emailTo=`oleg.crystalclear@gmail.com`
@@ -2727,31 +2734,13 @@
 		<div class="container">
 			<div class="row">
 				<h2 class="title">НАЛАШТУВАННЯ GOOGLE ADWORDS</h2>
-				<div class="modal3-box">
-					<h3>Терміни запуску</h3>
-					<div class="modal3-context">Налагодження та запуск рекл. кампанії - від 3 роб. днів (залежить від складності проекту)</div>
-					<h3>Бюджет і вартість послуг</h3>
-					<div class="modal3-context">Працюємо з рекламними бюджетами від 7000 грн / міс (Adwords).</div>
-					<h3>Загальний бюджет на рекл. кампанію складається з:</h3>
-					<ul>
-						<li>бюджету на кліки (прораховується в кожному конкретному випадку);</li>
-						<li>послуг з налаштування та ведення рекл. кампанії (послуги агентства).</li>
-						<li>Вартість послуг і бюджет на рекламу прораховується в кожному конкретному випадку і залежить від цілей / особливостей рекл. кампанії і від обсягу робіт з управління рекл. кампанією</li>
-					</ul>
-					<h4>Мінімальна вартість настройки рекл. кампанії - 3099 грн разово.<br>
-						Мінімальна вартість послуг ведення рекл. кампанії - 3099 грн / міс.
-					</h4>
-					<h3>У вартість обслуговування рекл. кампанії входить:</h3>
-					<ul>
-						<li>побудова рекламної стратегії</li>
-						<li>настройка аналітики: відстеження конверсій, звіти (Google Analytics, Tag-Manager, Metrika, WebVisor, Google DataStudio)</li>
-						<li>настройка рекламних акаунтів (Adwords, Direct, FaceBook Ads)</li>
-						<li>налаштування імпорту даних (Owox)</li>
-						<li>аналітика і роботи по оптимізаці</li>
-						<li>звітність і рекомендації</li>
-						<li>рішення тих. проблем з акаунтами</li>
-					</ul>
-				</div>
+				[[pdoResources?
+           &parents=`21`
+           &depth=`0`
+           &includeTVs=`google-adwords-price, min-setup-price, min-conducting-price`
+           &tpl=`google--adwords__item`
+           &sortdir=`ASC`
+          ]]
 				<a class="btn btn-adwords js-pop" href="#modal1">Замовити налаштування</a>
 			</div>
 		</div>
@@ -2761,17 +2750,15 @@
 			<div class="row">
 				<h2 class="title">Реєстрація доменного імені</h2>
 				<div class="form">
-					<form class="form-box js-form-template">
-						<input id="domin" class="form-box-field form-box-field-dom js-valid" type="text" name="txt[]" placeholder="Введіть ім’я, яке бажаєте  зареєструвати">
-						<input  class="form-box-field js-valid" type="text" name="name[]" placeholder="Введіть ваше ім’я">
-						<input  class="form-box-field js-valid" type="text" name="phone[]" placeholder="Введіть ваш телефон">
-						<input class="hidden identyfy" type="text" name="identify[]" value="Домен">
-						<div class="form-check">
-							<input class="" id="ready4" type="checkbox" name="check[]" checked>
-							<label class="form-check-lable" for="ready4">Я погоджуюся <a class="form-check-lable-confidencial" target="_blank" href="conf.html">з політикою конфіденційності</a></label>
-						</div>
-						<input type="submit" class="btn btn-interview" value="Залишити заявку"></input>
-					</form>
+					[[!AjaxForm?
+            &snippet=`FormIt`
+            &form=`modal--form2`
+            &emailTpl=`modal--email_tpl`
+            &hooks=`email`
+            &emailSubject=`Обратная связь`
+            &emailTo=`oleg.crystalclear@gmail.com`
+            &emailFrom=`oleg.crystalclear@gmail.com`
+        ]]
 				</div>
 			</div>
 		</div>
@@ -2794,7 +2781,7 @@
 			[[!AjaxForm?
             &snippet=`FormIt`
             &form=`modal--form`
-            &emailTpl=`modal--email_tpl`
+            &emailTpl=`email_tpl`
             &hooks=`email`
             &emailSubject=`Обратная связь`
             &emailTo=`oleg.crystalclear@gmail.com`
@@ -2822,31 +2809,13 @@
 		<div class="container">
 			<div class="row">
 				<h2 class="title">НАЛАШТУВАННЯ GOOGLE ADWORDS</h2>
-				<div class="modal3-box">
-					<h3>Терміни запуску</h3>
-					<div class="modal3-context">Налагодження та запуск рекл. кампанії - від 3 роб. днів (залежить від складності проекту)</div>
-					<h3>Бюджет і вартість послуг</h3>
-					<div class="modal3-context">Працюємо з рекламними бюджетами від 7000 грн / міс (Adwords).</div>
-					<h3>Загальний бюджет на рекл. кампанію складається з:</h3>
-					<ul>
-						<li>бюджету на кліки (прораховується в кожному конкретному випадку);</li>
-						<li>послуг з налаштування та ведення рекл. кампанії (послуги агентства).</li>
-						<li>Вартість послуг і бюджет на рекламу прораховується в кожному конкретному випадку і залежить від цілей / особливостей рекл. кампанії і від обсягу робіт з управління рекл. кампанією</li>
-					</ul>
-					<h4>Мінімальна вартість настройки рекл. кампанії - 3099 грн разово.<br>
-						Мінімальна вартість послуг ведення рекл. кампанії - 3099 грн / міс.
-					</h4>
-					<h3>У вартість обслуговування рекл. кампанії входить:</h3>
-					<ul>
-						<li>побудова рекламної стратегії</li>
-						<li>настройка аналітики: відстеження конверсій, звіти (Google Analytics, Tag-Manager, Metrika, WebVisor, Google DataStudio)</li>
-						<li>настройка рекламних акаунтів (Adwords, Direct, FaceBook Ads)</li>
-						<li>налаштування імпорту даних (Owox)</li>
-						<li>аналітика і роботи по оптимізаці</li>
-						<li>звітність і рекомендації</li>
-						<li>рішення тих. проблем з акаунтами</li>
-					</ul>
-				</div>
+				[[pdoResources?
+           &parents=`21`
+           &depth=`0`
+           &includeTVs=`google-adwords-price, min-setup-price, min-conducting-price`
+           &tpl=`google--adwords__item`
+           &sortdir=`ASC`
+          ]]
 				<a class="btn btn-adwords js-pop" href="#modal1">Замовити налаштування</a>
 			</div>
 		</div>
@@ -2856,17 +2825,15 @@
 			<div class="row">
 				<h2 class="title">Реєстрація доменного імені</h2>
 				<div class="form">
-					<form class="form-box js-form-template">
-						<input id="domin" class="form-box-field form-box-field-dom js-valid" type="text" name="txt[]" placeholder="Введіть ім’я, яке бажаєте  зареєструвати">
-						<input  class="form-box-field js-valid" type="text" name="name[]" placeholder="Введіть ваше ім’я">
-						<input  class="form-box-field js-valid" type="text" name="phone[]" placeholder="Введіть ваш телефон">
-						<input class="hidden identyfy" type="text" name="identify[]" value="Домен">
-						<div class="form-check">
-							<input class="" id="ready4" type="checkbox" name="check[]" checked>
-							<label class="form-check-lable" for="ready4">Я погоджуюся <a class="form-check-lable-confidencial" target="_blank" href="conf.html">з політикою конфіденційності</a></label>
-						</div>
-						<input type="submit" class="btn btn-interview" value="Залишити заявку"></input>
-					</form>
+					[[!AjaxForm?
+            &snippet=`FormIt`
+            &form=`modal--form2`
+            &emailTpl=`modal--email_tpl`
+            &hooks=`email`
+            &emailSubject=`Обратная связь`
+            &emailTo=`oleg.crystalclear@gmail.com`
+            &emailFrom=`oleg.crystalclear@gmail.com`
+        ]]
 				</div>
 			</div>
 		</div>

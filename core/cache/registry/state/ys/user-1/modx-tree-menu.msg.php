@@ -1,4 +1,4 @@
 <?php
 return array (
-  'activeTab' => 0,
+  0 => '/n_/n_topnav',
 );

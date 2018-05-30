@@ -12,14 +12,16 @@
     'politika-czen/' => 7,
     'raznicza-tarifov.html' => 8,
     'dlya-startapov.html' => 9,
-    'modalnyie-okna-xostinga/' => 17,
     'slajder-sekcziya.html' => 10,
+    'google-adwords/' => 21,
+    'modalnyie-okna-xostinga/' => 17,
     'politika-czen/paket-predlozhenij-1.html' => 14,
     'politika-czen/paket-predlozhenij-2.html' => 15,
     'politika-czen/paket-predlozhenij-3.html' => 16,
     'modalnyie-okna-xostinga/modalnyie-okna-xostinga.html' => 18,
     'modalnyie-okna-xostinga/modalnyie-okno-xostinga-2.html' => 19,
     'modalnyie-okna-xostinga/modalnyie-okno-xostinga-3.html' => 20,
+    'google-adwords/google-adwords-modal.html' => 22,
   ),
   'resourceMap' => 
   array (
@@ -33,8 +35,9 @@
       5 => 7,
       6 => 8,
       7 => 9,
-      8 => 17,
-      9 => 10,
+      8 => 10,
+      9 => 21,
+      10 => 17,
     ),
     7 => 
     array (
@@ -47,6 +50,10 @@
       0 => 18,
       1 => 19,
       2 => 20,
+    ),
+    21 => 
+    array (
+      0 => 22,
     ),
   ),
   'webLinkMap' => 

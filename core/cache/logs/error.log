@@ -98,3 +98,22 @@
 [2018-05-29 15:20:36] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\xpdo\xpdo.class.php : 1247) Problem getting service formit, instance of class FormIt, from path C:/OSPanel/domains/LandingNerds.modx/core/components/formit/model/formit/
 [2018-05-29 16:35:54] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
 [2018-05-29 16:55:39] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-05-30 11:11:13] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-05-30 11:25:55] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 11:34:14] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 11:48:38] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/clientconfig/default
+[2018-05-30 11:49:16] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/clientconfig/default
+[2018-05-30 12:05:05] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 13:19:58] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 13:20:09] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 13:21:16] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 13:25:20] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/clientconfig/default
+[2018-05-30 13:55:56] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-05-30 14:02:30] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-05-30 14:07:34] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-05-30 14:08:14] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-05-30 14:11:35] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-05-30 14:13:24] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 509) Error caching script elements/modplugin/3
+[2018-05-30 14:32:42] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-05-30 14:32:44] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modprocessor.class.php : 256) Processor failed creating output array due to JSON error 5
+[2018-05-30 15:14:27] (ERROR @ C:\OSPanel\domains\LandingNerds.modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/clientconfig/default

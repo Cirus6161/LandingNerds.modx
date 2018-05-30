@@ -1,26 +1,6 @@
 <?php  return array (
   0 => 
   array (
-    'text' => 'MIGX',
-    'parent' => 'topnav',
-    'action' => 'index',
-    'description' => '',
-    'icon' => '',
-    'menuindex' => 0,
-    'params' => '&configs=packagemanager||migxconfigs||setup',
-    'handler' => '',
-    'permissions' => '',
-    'namespace' => 'migx',
-    'action_controller' => NULL,
-    'action_namespace' => NULL,
-    'id' => 'migx',
-    'children' => 
-    array (
-    ),
-    'controller' => '',
-  ),
-  1 => 
-  array (
     'text' => 'Содержимое',
     'parent' => 'topnav',
     'action' => '',
@@ -159,7 +139,7 @@
     ),
     'controller' => '',
   ),
-  2 => 
+  1 => 
   array (
     'text' => 'Медиа',
     'parent' => 'topnav',
@@ -219,7 +199,7 @@
     ),
     'controller' => '',
   ),
-  3 => 
+  2 => 
   array (
     'text' => 'Приложения',
     'parent' => 'topnav',
@@ -237,66 +217,6 @@
     'children' => 
     array (
       0 => 
-      array (
-        'text' => 'Виды Коллекции',
-        'parent' => 'components',
-        'action' => '1',
-        'description' => 'Определите виды для таблицы дочерних ресурсов коллекции.',
-        'icon' => '',
-        'menuindex' => 0,
-        'params' => '',
-        'handler' => '',
-        'permissions' => '',
-        'namespace' => 'core',
-        'action_controller' => 'index',
-        'action_namespace' => 'collections',
-        'id' => 'collections.menu.collection_templates',
-        'children' => 
-        array (
-        ),
-        'controller' => '',
-      ),
-      1 => 
-      array (
-        'text' => 'Конфигурация',
-        'parent' => 'components',
-        'action' => '2',
-        'description' => 'Установка и обновление конфигурации сайта.',
-        'icon' => 'images/icons/plugin.gif',
-        'menuindex' => 0,
-        'params' => '',
-        'handler' => '',
-        'permissions' => '',
-        'namespace' => 'core',
-        'action_controller' => 'index',
-        'action_namespace' => 'clientconfig',
-        'id' => 'clientconfig',
-        'children' => 
-        array (
-        ),
-        'controller' => '',
-      ),
-      2 => 
-      array (
-        'text' => 'FormIt',
-        'parent' => 'components',
-        'action' => '4',
-        'description' => 'Просмотреть все заполненные формы',
-        'icon' => '',
-        'menuindex' => 0,
-        'params' => '',
-        'handler' => '',
-        'permissions' => '',
-        'namespace' => 'core',
-        'action_controller' => 'index',
-        'action_namespace' => 'formit',
-        'id' => 'formit',
-        'children' => 
-        array (
-        ),
-        'controller' => '',
-      ),
-      3 => 
       array (
         'text' => 'Batcher',
         'parent' => 'components',
@@ -316,6 +236,66 @@
         ),
         'controller' => '',
       ),
+      1 => 
+      array (
+        'text' => 'Конфигурация',
+        'parent' => 'components',
+        'action' => '2',
+        'description' => 'Установка и обновление конфигурации сайта.',
+        'icon' => 'images/icons/plugin.gif',
+        'menuindex' => 1,
+        'params' => '',
+        'handler' => '',
+        'permissions' => '',
+        'namespace' => 'core',
+        'action_controller' => 'index',
+        'action_namespace' => 'clientconfig',
+        'id' => 'clientconfig',
+        'children' => 
+        array (
+        ),
+        'controller' => '',
+      ),
+      2 => 
+      array (
+        'text' => 'Виды Коллекции',
+        'parent' => 'components',
+        'action' => '1',
+        'description' => 'Определите виды для таблицы дочерних ресурсов коллекции.',
+        'icon' => '',
+        'menuindex' => 2,
+        'params' => '',
+        'handler' => '',
+        'permissions' => '',
+        'namespace' => 'core',
+        'action_controller' => 'index',
+        'action_namespace' => 'collections',
+        'id' => 'collections.menu.collection_templates',
+        'children' => 
+        array (
+        ),
+        'controller' => '',
+      ),
+      3 => 
+      array (
+        'text' => 'FormIt',
+        'parent' => 'components',
+        'action' => '4',
+        'description' => 'Просмотреть все заполненные формы',
+        'icon' => '',
+        'menuindex' => 3,
+        'params' => '',
+        'handler' => '',
+        'permissions' => '',
+        'namespace' => 'core',
+        'action_controller' => 'index',
+        'action_namespace' => 'formit',
+        'id' => 'formit',
+        'children' => 
+        array (
+        ),
+        'controller' => '',
+      ),
       4 => 
       array (
         'text' => 'Установщик',
@@ -323,7 +303,7 @@
         'action' => 'workspaces',
         'description' => 'Управление приложениями и репозиториями',
         'icon' => '',
-        'menuindex' => 0,
+        'menuindex' => 4,
         'params' => '',
         'handler' => '',
         'permissions' => 'packages',
@@ -336,10 +316,30 @@
         ),
         'controller' => '',
       ),
+      5 => 
+      array (
+        'text' => 'MIGX',
+        'parent' => 'components',
+        'action' => 'index',
+        'description' => '',
+        'icon' => '',
+        'menuindex' => 5,
+        'params' => '&configs=packagemanager||migxconfigs||setup',
+        'handler' => '',
+        'permissions' => '',
+        'namespace' => 'migx',
+        'action_controller' => NULL,
+        'action_namespace' => NULL,
+        'id' => 'migx',
+        'children' => 
+        array (
+        ),
+        'controller' => '',
+      ),
     ),
     'controller' => '',
   ),
-  4 => 
+  3 => 
   array (
     'text' => 'Управление',
     'parent' => 'topnav',
@@ -560,7 +560,7 @@
     ),
     'controller' => '',
   ),
-  5 => 
+  4 => 
   array (
     'text' => 'Очистить кэш',
     'parent' => 'topnav',
@@ -580,7 +580,7 @@
     ),
     'controller' => '',
   ),
-  6 => 
+  5 => 
   array (
     'text' => 'Обновить URI-ссылки',
     'parent' => 'topnav',
